@@ -57,44 +57,6 @@ export const newsOne = {
   ],
 };
 
-export const newsSidebar = {
-  newses: [
-    {
-      id: 1,
-      image: "news-sidebar-img-1.jpg",
-      subtitle: "finance",
-      date: "20 Oct, 2022",
-      
-    },
-    {
-      id: 2,
-      image: "news-sidebar-img-2.jpg",
-      subtitle: "finance",
-      date: "20 Oct, 2022",
-      comments: 0,
-      
-    },
-    {
-      id: 3,
-      image: "news-sidebar-img-3.jpg",
-      subtitle: "finance",
-      date: "20 Oct, 2022",
-      comments: 0,
-      
-    },
-    {
-      id: 4,
-      image: "news-sidebar-img-4.jpg",
-      subtitle: "finance",
-      date: "20 Oct, 2022",
-      comments: 0,
-      
-    },
-  ],
-};
-
-
-
 export const newsDetails = {
   image,
   subtitle: "Agrícola",
