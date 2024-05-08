@@ -44,4 +44,4 @@ const NewsSidebarSingle = ({ news = {} }) => {
   );
 };
 
-export default NewsSidebarSingle;
+

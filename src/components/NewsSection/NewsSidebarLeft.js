@@ -1,6 +1,5 @@
 import React from "react";
 import BlogPagination from "./BlogPagination";
-import NewsSidebarSingle from "./NewsSidebarSingle";
 
 const NewsSidebarLeft = ({ newses = [] }) => {
   return (
@@ -15,4 +14,4 @@ const NewsSidebarLeft = ({ newses = [] }) => {
   );
 };
 
-export default NewsSidebarLeft;
+
