@@ -11,7 +11,7 @@ export const welcomeOne = {
   counter: [
     {
       id: 1,
-      text: "Caminhoeneiros",
+      text: "Caminhoneiros",
       count: 7300,
     },
     {
