@@ -7,17 +7,17 @@ export const welcomeOne = {
   bg,
   videoBg,
   tagline: "Porque escolher a Plenitude?",
-  title: "Ampla cobertura com filiais em 4 estados brasileiros!",
+  title: "Ampla cobertura com filiais em 5 estados brasileiros!",
   counter: [
     {
       id: 1,
-      text: "Caminhões em frota",
-      count: 300,
+      text: "Caminhoeneiros",
+      count: 7300,
     },
     {
       id: 2,
-      text: "Motoristas cadastrados",
-      count: 350,
+      text: "Caminhões cadastrados",
+      count: 30000,
     },
   ],
   videoId: "puRY6zKtTUU",

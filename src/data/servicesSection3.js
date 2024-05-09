@@ -137,12 +137,12 @@ export const serviceDetailsSidebar = {
 
 const commonServiceDerails = {
   icon: "icon-global",
-  text: "A Plenitude Transportes tem uma forte presença na região Sul do Brasil, com nossos escritórios localizados nas cidades de Paranaguá-SC, Maringá-PR e Araquari-SC. Paranaguá é conhecida por abrigar um dos maiores portos marítimos internacionais do país, o que nos permite oferecer suporte especializado para a exportação de produtos. Estamos comprometidos em atender com excelência toda a região Sul, proporcionando soluções logísticas confiáveis e eficientes para nossos clientes. Conte conosco para impulsionar suas operações de transporte e exportação nesta importante região do país.",
+  text: "A Plenitude Transportes tem uma forte presença na região Sul do Brasil, com nossos escritórios localizados nas cidades de Paranaguá-PR, Maringá-PR e Araquari-SC. Paranaguá é conhecida por abrigar um dos maiores portos marítimos internacionais do país, o que nos permite oferecer suporte especializado para a exportação de produtos. Estamos comprometidos em atender com excelência toda a região Sul, proporcionando soluções logísticas confiáveis e eficientes para nossos clientes. Conte conosco para impulsionar suas operações de transporte e exportação nesta importante região do país.",
   
   text3:
-    "Com nossos escritórios na região Sul do país, a Plenitude Transportes não só fortalece sua presença estratégica, mas também proporciona maior conforto aos caminhoneiros de nossa frota. Isso nos permite garantir viagens eficientes do Sul para o Centro-Oeste e vice-versa, atendendo às demandas de clientes em todas as regiões do Brasil. Conte conosco para uma parceria sólida e confiável, facilitando o transporte de cargas e impulsionando o sucesso de sua operação logística.",
+    "Agora, presente também no estado de Santa Catarina, com uma filial na cidade de São Francisco do Sul/Araquari, sediada no endereço: Rod. BR 280, nº 9371 / Sala 26 (Volta Redonda). Com nossos escritórios na região Sul do país, a Plenitude Transportes não só fortalece sua presença estratégica, mas também proporciona maior conforto aos caminhoneiros de nossa frota. Isso nos permite garantir viagens eficientes do Sul para o Centro-Oeste e vice-versa, atendendo às demandas de clientes em todas as regiões do Brasil. Conte conosco para uma parceria sólida e confiável, facilitando o transporte de cargas e impulsionando o sucesso de sua operação logística.",
   contents: [
-    "Av. Ayrton Senna da Silva, S/N, São João - Paranaguá/SC",
+    "Av. Ayrton Senna da Silva, S/N, São João - Paranaguá/PR",
     "Endereço: PR 317, KM 2, S/N - Maringá/PR",
   ],
   howHelps: [
