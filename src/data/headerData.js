@@ -132,11 +132,6 @@ export const navItems = [
     
   },
   {
-    id: 6,
-    name: "Apresentação",
-    href: "https://drive.google.com/file/d/1PUSdMJleOZ4N4Lcrhbh5C6vg9Hafhmu0/view",
-  },
-  {
     id: 7,
     name: "Fretes",
     href: "https://www.fretebras.com.br/fretes/grupo-empresa-24086",
